@@ -1,3 +1,3 @@
 ## GitBash/commands
-[**Please, see script.sh**]()
+[**Please, see script.sh**](https://github.com/Lyubov-Maksimova/Git/blob/main/script.sh)
 
