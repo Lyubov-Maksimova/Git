@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "See where am I"
+	pwd
+
+echo "--------------"
+
+echo "Create a folder"
+ 	mkdir Foldername
+
+echo "--------------"
+
+echo "Go to the folder"
+	cd Foldername
+	ls
+echo "--------------"
+
+
